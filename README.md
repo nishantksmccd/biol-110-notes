@@ -1,7 +1,7 @@
-# nishantksmccd.github.io
-BIOL 110 Notes
+# BIOL 110 Notes
 
-* [1A](./1A.md)  
+**Start of Class**
+
 * [1B](./1B.md)  
 * [2A](./2A.md)  
 * [2B](./2B.md)  
