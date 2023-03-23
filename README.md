@@ -13,8 +13,8 @@ BIOL 110 Notes
 
 **Cumulative Assessment 1**
 
-[6A](./6A.md)
-[6B](./6B.md)
-[7A](./7A.md)
-[7B](./7B.md)
-[8A](./8A.md)
+* [6A](./6A.md)
+* [6B](./6B.md)
+* [7A](./7A.md)
+* [7B](./7B.md)
+* [8A](./8A.md)
