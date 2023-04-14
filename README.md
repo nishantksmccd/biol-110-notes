@@ -18,6 +18,7 @@
 * [7A](./7A.html)
 * [7B](./7B.html)
 * [8A](./8A.html)
+* [8B](./8B.html)
 * [9A](./9A.html)
 * [9B](./9B.html)
 * [10A](./10A.html)
