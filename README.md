@@ -26,4 +26,4 @@
 **Cumulative Assessment 2**
 
 * [11A](./11A.html)
-* [12A](./12A.html)
+* [12A and 12B](./12A.html)
