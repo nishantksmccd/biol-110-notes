@@ -1,5 +1,7 @@
 # BIOL 110 Notes
 
+Welcome to the website that contains all of my notes for Biology 110. These are summaries of all the content you will need for tests and learning assessments. I took this class with Professor Young at Cañada College, during spring 2023. Before every learning assessment you can check the individual module sites and the cheat sheets.
+
 **Start of Class**
 
 * [1B](./1B.html)  
