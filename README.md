@@ -23,7 +23,7 @@
 * [9B](./9B.html)
 * [10A](./10A.html)
 
-**Cumulative Assessment 2**
+**[Cumulative Assessment 2 notes](./ca2.md)**
 
 * [11A](./11A.html)
 * [12A and 12B](./12A.html)
