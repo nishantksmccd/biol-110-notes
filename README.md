@@ -11,7 +11,7 @@
 * [4B](./4B.html)  
 * [5A](./5A.html)  
 
-**[Cumulative Assessment 1](./ca1.md)**
+**[Cumulative Assessment 1 notes](./ca1.md)**
 
 * [6A](./6A.html)
 * [6B](./6B.html)
