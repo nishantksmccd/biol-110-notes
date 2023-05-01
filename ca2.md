@@ -15,7 +15,9 @@
 ## Module 8A: Biomes
 * Biomes are large areas of the earth with similar climate and vegetation
 * The major biomes include tropical rainforest, savanna, desert, temperate grassland, temperate deciduous forest, taiga, and tundra
-Module 8B: Conservation Biology
+
+
+## Module 8B: Conservation Biology
 * Conservation biology aims to protect biodiversity and manage human impacts on ecosystems
 * Threats to biodiversity include habitat destruction, invasive species, overexploitation, pollution, and climate change
 * Conservation strategies include habitat restoration, captive breeding, and protected areas
